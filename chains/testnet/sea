@@ -1,0 +1,27 @@
+{
+  "chain_name": "sea",
+  "network_type": "testnet",
+  "api": [
+    "https://testnet-api.seachain.xyz",
+    "https://api.seachain.xyz"
+  ],
+  "rpc": [
+    "https://testnet-rpc.seachain.xyz",
+    "https://rpc.seachain.xyz"
+  ],
+  "sdk_version": "0.50",
+  "coin_type": "118",
+  "min_tx_fee": "500",
+  "addr_prefix": "sea",
+  "logo": "/assets/sea-testnet/logo_transparent.png",
+  "assets": [
+    {
+      "base": "usea",
+      "symbol": "SEA",
+      "exponent": 6,
+      "coingecko_id": "",
+      "logo": "/assets/sea-testnet/logo.png"
+    }
+  ],
+  "theme_color": "#00d4aa"
+}
